@@ -4,20 +4,35 @@
 }
 
 .middiv {
-  background-color: #C9D8B6;
-  width: 200px;
-  height: 200px;
+  background-color: #EEEEEE;
+  padding-bottom: 20px;
+
 }
 
 .botdiv {
-  background-color: #57837B;
-  width: 200px;
-  height: 200px;
+  background-color: #C400FF;
+  padding-top: 20px;
+}
+
+.skill-row {
+  background-color: #FFF338;
+}
+.joke {
+  background-color:#FF67E7;
+  padding-top: 25%;
 }
 
 h1 {
   margin-top: 0;
   font-family: 'Walter Turncoat', cursive;
+}
+
+h2 {
+  font-family: 'Walter Turncoat', cursive;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
 }
 
 body {
@@ -28,21 +43,40 @@ p {
   font-family: 'Raleway', sans-serif;
 }
 
+hr {
+  border-style: dashed;
+width: 400px;
+
+
+}
+
 .bottom-cloud {
   position: absolute;
   top: 75px;
-  left: 500px;
+  left: 19.6%;
   padding-top: 35px;
 }
 
 .top-cloud {
   position: absolute;
   top: 50px;
-  left: 1250px;
+  left: 68%;
   padding-top: 35px;
 }
 
 .mountain {
   width: 45%;
   margin-left: 2%;
+
+}
+
+.sneakers {
+  width: 12%;
+  position: relative;
+  right: 20%;
+}
+.tinder {
+  width: 10%;
+  position: absolute;
+  left: 68%;
 }
