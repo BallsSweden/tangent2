@@ -12,14 +12,27 @@
 .botdiv {
   background-color: #C400FF;
   padding-top: 20px;
+  padding-bottom: 2px;
 }
 
 .skill-row {
   background-color: #FFF338;
+
+}
+.profile {
+  background-color: #BD4B4B;
+}
+
+#getit {
+  padding-bottom: 9px;
 }
 .joke {
   background-color:#FF67E7;
   padding-top: 25%;
+}
+
+.holla {
+  background-color: #28FFBF;
 }
 
 h1 {
