@@ -29,9 +29,7 @@
   padding-bottom: 40px;
 }
 
-#getit {
-  margin-bottom: 0;
-}
+
 
 .joke {
   background-color: #FF67E7;
@@ -110,10 +108,6 @@ hr {
   float: right;
 }
 
-#flip {
-  margin: auto 30px auto 30px;
-}
-
 .seriously {
   font-size: 1.5rem;
   padding-bottom: 20px;
@@ -122,4 +116,35 @@ hr {
 .eatshit {
   padding-top: 6px;
   padding-bottom: 6px;
+}
+
+.invert {
+  background-color: #A2DBFA;
+}
+
+.upsidedown {
+  width: 45%;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+.thingone {
+  width: 35%;
+  margin: 0 auto 0 auto;
+  display: block;
+}
+.leftme {
+  width: 35%;
+  display: block;
+  position: absolute;
+  left: 0;
+  top: auto;
+  bottom: auto;
+
+}
+.rightme {
+  width: 35%;
+  position: absolute;
+  right: 0;
+  top: auto;
+  bottom: auto;
 }
