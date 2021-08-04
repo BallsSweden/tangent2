@@ -1,95 +1,125 @@
 .topdiv {
   background-color: #A2DBFA;
   padding-top: 150px;
+    padding-bottom: 0;
 }
 
 .middiv {
   background-color: #EEEEEE;
-  padding-bottom: 20px;
-
 }
 
 .botdiv {
   background-color: #C400FF;
-  padding-top: 20px;
-  padding-bottom: 2px;
 }
 
 .skill-row {
   background-color: #FFF338;
-
+  width: 800px;
+  margin: 0 auto 35px auto;
+  text-align: left;
+  line-height: 2;
 }
+
+.skills {
+  background-color: #FFF338;
+}
+
 .profile {
   background-color: #BD4B4B;
+  padding-bottom: 40px;
 }
 
 #getit {
-  padding-bottom: 9px;
+  margin-bottom: 0;
 }
+
 .joke {
-  background-color:#FF67E7;
+  background-color: #FF67E7;
   padding-top: 25%;
 }
 
 .holla {
   background-color: #28FFBF;
+  padding-bottom: 40px;
 }
 
 h1 {
-  margin-top: 0;
+  margin-top: 50px;
   font-family: 'Walter Turncoat', cursive;
+  font-size: 3.75em;
+  color: #001E6C
 }
 
 h2 {
   font-family: 'Walter Turncoat', cursive;
+  font-size: 2rem;
+  display: inline-block;
 }
 
 h3 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 1.5rem;
+  color: red;
+  font-weight: normal;
 }
 
 body {
   margin: 0;
   text-align: center;
 }
+
 p {
   font-family: 'Raleway', sans-serif;
 }
 
 hr {
   border-style: dashed;
-width: 400px;
-
-
+  width: 400px;
 }
 
 .bottom-cloud {
-  position: absolute;
+  position: fixed;
   top: 75px;
-  left: 19.6%;
+  left: 20.6%;
   padding-top: 35px;
 }
 
 .top-cloud {
-  position: absolute;
+  position: fixed;
   top: 50px;
-  left: 68%;
+  left: 74%;
   padding-top: 35px;
 }
 
 .mountain {
   width: 45%;
-  margin-left: 2%;
 
+  display: block;
+  margin: 0 auto 0 auto;
 }
 
 .sneakers {
-  width: 12%;
-  position: relative;
-  right: 20%;
+  width: 9.375rem;
+  margin-right: 60px;
+  float: left;
 }
+
 .tinder {
-  width: 10%;
-  position: absolute;
-  left: 68%;
+  width: 6.875rem;
+  margin-left: 60px;
+  float: right;
+}
+
+#flip {
+  margin: auto 30px auto 30px;
+}
+
+.seriously {
+  font-size: 1.5rem;
+  padding-bottom: 20px;
+}
+
+.eatshit {
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
